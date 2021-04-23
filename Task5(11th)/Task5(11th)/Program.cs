@@ -110,6 +110,7 @@ namespace Task5_11th_
                         {
                             Console.WriteLine($"Не правильно, {name2} старше {name1} на {age2 - age1} лет");
                         }
+                        anotherNum = true;
                         break;
 
                     case "2":
@@ -125,6 +126,7 @@ namespace Task5_11th_
                         {
                             Console.WriteLine($"Не правильно, {name1} старше {name2} на {age1 - age2} лет");
                         }
+                        anotherNum = true;
                         break;
 
                     default:
