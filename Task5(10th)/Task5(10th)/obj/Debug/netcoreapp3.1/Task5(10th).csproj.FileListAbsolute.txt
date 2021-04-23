@@ -1,0 +1,13 @@
+D:\ForC#\new\Task5(10th)\Task5(10th)\bin\Debug\netcoreapp3.1\Task5(10th).exe
+D:\ForC#\new\Task5(10th)\Task5(10th)\bin\Debug\netcoreapp3.1\Task5(10th).deps.json
+D:\ForC#\new\Task5(10th)\Task5(10th)\bin\Debug\netcoreapp3.1\Task5(10th).runtimeconfig.json
+D:\ForC#\new\Task5(10th)\Task5(10th)\bin\Debug\netcoreapp3.1\Task5(10th).runtimeconfig.dev.json
+D:\ForC#\new\Task5(10th)\Task5(10th)\bin\Debug\netcoreapp3.1\Task5(10th).dll
+D:\ForC#\new\Task5(10th)\Task5(10th)\bin\Debug\netcoreapp3.1\Task5(10th).pdb
+D:\ForC#\new\Task5(10th)\Task5(10th)\obj\Debug\netcoreapp3.1\Task5(10th).csprojAssemblyReference.cache
+D:\ForC#\new\Task5(10th)\Task5(10th)\obj\Debug\netcoreapp3.1\Task5(10th).AssemblyInfoInputs.cache
+D:\ForC#\new\Task5(10th)\Task5(10th)\obj\Debug\netcoreapp3.1\Task5(10th).AssemblyInfo.cs
+D:\ForC#\new\Task5(10th)\Task5(10th)\obj\Debug\netcoreapp3.1\Task5(10th).csproj.CoreCompileInputs.cache
+D:\ForC#\new\Task5(10th)\Task5(10th)\obj\Debug\netcoreapp3.1\Task5(10th).dll
+D:\ForC#\new\Task5(10th)\Task5(10th)\obj\Debug\netcoreapp3.1\Task5(10th).pdb
+D:\ForC#\new\Task5(10th)\Task5(10th)\obj\Debug\netcoreapp3.1\Task5(10th).genruntimeconfig.cache

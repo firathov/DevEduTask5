@@ -1,0 +1,13 @@
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\bin\Debug\netcoreapp3.1\Task5(11th).exe
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\bin\Debug\netcoreapp3.1\Task5(11th).deps.json
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\bin\Debug\netcoreapp3.1\Task5(11th).runtimeconfig.json
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\bin\Debug\netcoreapp3.1\Task5(11th).runtimeconfig.dev.json
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\bin\Debug\netcoreapp3.1\Task5(11th).dll
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\bin\Debug\netcoreapp3.1\Task5(11th).pdb
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\obj\Debug\netcoreapp3.1\Task5(11th).csprojAssemblyReference.cache
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\obj\Debug\netcoreapp3.1\Task5(11th).AssemblyInfoInputs.cache
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\obj\Debug\netcoreapp3.1\Task5(11th).AssemblyInfo.cs
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\obj\Debug\netcoreapp3.1\Task5(11th).csproj.CoreCompileInputs.cache
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\obj\Debug\netcoreapp3.1\Task5(11th).dll
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\obj\Debug\netcoreapp3.1\Task5(11th).pdb
+D:\ForC#\Task5\Task5(11th)\Task5(11th)\obj\Debug\netcoreapp3.1\Task5(11th).genruntimeconfig.cache

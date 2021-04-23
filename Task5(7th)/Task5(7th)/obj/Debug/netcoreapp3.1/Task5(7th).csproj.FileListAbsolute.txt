@@ -1,0 +1,13 @@
+D:\ForC#\for git\Task5(7th)\Task5(7th)\bin\Debug\netcoreapp3.1\Task5(7th).exe
+D:\ForC#\for git\Task5(7th)\Task5(7th)\bin\Debug\netcoreapp3.1\Task5(7th).deps.json
+D:\ForC#\for git\Task5(7th)\Task5(7th)\bin\Debug\netcoreapp3.1\Task5(7th).runtimeconfig.json
+D:\ForC#\for git\Task5(7th)\Task5(7th)\bin\Debug\netcoreapp3.1\Task5(7th).runtimeconfig.dev.json
+D:\ForC#\for git\Task5(7th)\Task5(7th)\bin\Debug\netcoreapp3.1\Task5(7th).dll
+D:\ForC#\for git\Task5(7th)\Task5(7th)\bin\Debug\netcoreapp3.1\Task5(7th).pdb
+D:\ForC#\for git\Task5(7th)\Task5(7th)\obj\Debug\netcoreapp3.1\Task5(7th).csprojAssemblyReference.cache
+D:\ForC#\for git\Task5(7th)\Task5(7th)\obj\Debug\netcoreapp3.1\Task5(7th).AssemblyInfoInputs.cache
+D:\ForC#\for git\Task5(7th)\Task5(7th)\obj\Debug\netcoreapp3.1\Task5(7th).AssemblyInfo.cs
+D:\ForC#\for git\Task5(7th)\Task5(7th)\obj\Debug\netcoreapp3.1\Task5(7th).csproj.CoreCompileInputs.cache
+D:\ForC#\for git\Task5(7th)\Task5(7th)\obj\Debug\netcoreapp3.1\Task5(7th).dll
+D:\ForC#\for git\Task5(7th)\Task5(7th)\obj\Debug\netcoreapp3.1\Task5(7th).pdb
+D:\ForC#\for git\Task5(7th)\Task5(7th)\obj\Debug\netcoreapp3.1\Task5(7th).genruntimeconfig.cache

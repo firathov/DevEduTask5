@@ -1,0 +1,13 @@
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\bin\Debug\netcoreapp3.1\Tast5(5th).exe
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\bin\Debug\netcoreapp3.1\Tast5(5th).deps.json
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\bin\Debug\netcoreapp3.1\Tast5(5th).runtimeconfig.json
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\bin\Debug\netcoreapp3.1\Tast5(5th).runtimeconfig.dev.json
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\bin\Debug\netcoreapp3.1\Tast5(5th).dll
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\bin\Debug\netcoreapp3.1\Tast5(5th).pdb
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\obj\Debug\netcoreapp3.1\Tast5(5th).csprojAssemblyReference.cache
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\obj\Debug\netcoreapp3.1\Tast5(5th).AssemblyInfoInputs.cache
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\obj\Debug\netcoreapp3.1\Tast5(5th).AssemblyInfo.cs
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\obj\Debug\netcoreapp3.1\Tast5(5th).csproj.CoreCompileInputs.cache
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\obj\Debug\netcoreapp3.1\Tast5(5th).dll
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\obj\Debug\netcoreapp3.1\Tast5(5th).pdb
+D:\ForC#\for git\Tast5(5th)\Tast5(5th)\obj\Debug\netcoreapp3.1\Tast5(5th).genruntimeconfig.cache
